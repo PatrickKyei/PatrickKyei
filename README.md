@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/PatrickKyei](https://github.com/PatrickKyei)
 
-- ⚡ Fun fact **Tenacity is my go to inspiration**
+- ⚡ Fun fact **I easily connect with other people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
