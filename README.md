@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Kyei</h1>
+<h1 align="center">👋 Hi, I'm Patrick Kyei</h1>
 <h3 align="center">I create digital products that are driven by user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickkyei&label=Profile%20views&color=0e75b6&style=flat" alt="patrickkyei" /> </p>
