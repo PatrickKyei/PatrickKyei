@@ -1,5 +1,3 @@
-README
-
 # Hi 👋, I'm Patrick Baffour
 
 ## I create digital products that are driven by user experience
