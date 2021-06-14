@@ -6,7 +6,7 @@
 
 [![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://twitter.com/_patrickbaffour)
 
-- I’m currently working on `[Skill Embassy](https://skillembassy.com "Skill Embassy")`
+- I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy")
     
 - I’m currently learning **Front End Frameworks, Product Design**
 
