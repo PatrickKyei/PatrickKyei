@@ -16,11 +16,9 @@
     
 - 📝 I regularly write articles on [my blog](patrickbaffour.blogspot.com "my blog")
     
-- 💬 Ask me about **Product Design, Product Management,Front End Development, Career advice**
+- 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
     
 - Fun fact I am a very sociable and easy around people
-    
-- How to reach me pkyei804@gmail.com
     
 - Know about my experiences <https://github.com/PatrickKyei>
     
