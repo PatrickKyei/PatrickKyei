@@ -1,4 +1,4 @@
-# Hi 👋, I'm Patrick Baffour
+# Hola 👋
 
 ## I create digital products that are driven by user experience
 
@@ -7,26 +7,25 @@
 [![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://twitter.com/_patrickbaffour)
 
 - I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy")
-    
+
 - I’m currently learning **Front End Frameworks, Product Design**
 
 - I’m looking to assist you with [career opportunities](https://skillembassy.com "career opportunities")
-    
+
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
-    
+
 - 📝 I regularly write articles on [my blog](https://patrickkyei.github.io/ "my blog")
-    
+
 - 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
-    
+
 - Fun fact I am a very sociable and easy around people
-    
+
 - Know about my experiences <https://github.com/PatrickKyei>
-    
 
 * * *
 
-- ### Connect with me:
-    
+- ### Connect with me
+
 - [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://twitter.com/_patrickbaffour) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://linkedin.com/in/patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://fb.com/patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://instagram.com/_patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://dribbble.com/patrickbaffour)
 - ### Languages and Tools:
     
