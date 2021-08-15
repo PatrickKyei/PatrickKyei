@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
 
-- 📝 I regularly write articles on [my blog](https://patrickkyei.github.io/ "my blog")
+- 📝 I regularly write articles on [website](https://patrickkyei.com/ "website")
 
 - 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
 
