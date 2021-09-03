@@ -1,6 +1,4 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
-# Hey👋, it's Patrick here
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> it's Patrick here
 
 ## I create digital products that are driven by user experience
 
