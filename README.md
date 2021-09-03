@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
 
-- 📝 I regularly write articles on [website](https://patrickkyei.com/ "website")
+- 📝 I regularly write articles on my [website](https://patrickkyei.com/ "website")
 
 - 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
 
-- Fun fact I am a very sociable and easy around people
+- Fun fact: I am a very sociable person and easy around people
 
 - Know about my experiences <https://github.com/PatrickKyei>
 
