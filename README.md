@@ -10,7 +10,7 @@
 
 - I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy")
 
-- I’m currently learning **Front End Frameworks, Product Design**
+- I’m currently learning **Front End Frameworks**
 
 - I’m looking to assist you with [career opportunities](https://skillembassy.com "career opportunities")
 
