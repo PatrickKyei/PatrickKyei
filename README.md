@@ -22,7 +22,7 @@
 
 - Fun fact: I am a very sociable person and easy around people
 
-- Know about my experiences <https://github.com/PatrickKyei>
+- Know about my [experiences](https://github.com/PatrickKyei)
 
 * * *
 
