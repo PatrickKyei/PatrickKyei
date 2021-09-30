@@ -8,7 +8,7 @@
 
 [![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://twitter.com/_patrickbaffour)
 
-- I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy"), [Facilitators Community](bit.ly/helpshapetheworld "Facilitators Community")
+- I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy"), [Facilitators Community](https://bit.ly/helpshapetheworld "Facilitators Community")
 
 - I’m currently learning **Front End Frameworks**
 
