@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
 
-- Fun fact: Tenacity is my go to inspiration
+- Fun fact: Tenacity is my go-to inspiration
 
 - Know about my [experiences](https://github.com/PatrickKyei)
 
