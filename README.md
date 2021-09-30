@@ -12,7 +12,7 @@
 
 - I’m currently learning **Front End Frameworks**
 
-- I’m looking to assist you with [career opportunities](https://skillembassy.com "career opportunities")
+- I’m looking to assist you with [skills and growth opportunities](https://skillembassy.com "career opportunities")
 
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
 
