@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on my [website](https://patrickkyei.com/ "website")
 
-- 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
+- 💬 Ask me about **Product Design, Product Management, Data Analytics**
 
 - Fun fact: I love open conversations with people.
 
