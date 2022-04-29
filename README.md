@@ -10,7 +10,7 @@
 
 - I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy"), [Facilitators Community](https://bit.ly/helpshapetheworld "Facilitators Community")
 
-- I’m currently learning **Front End Frameworks**
+- I’m currently learning **Data Analytics**
 
 - I’m looking to assist you with [skills and growth opportunities](https://skillembassy.com "career opportunities")
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Product Design, Product Management, Software Development, Career advice**
 
-- Fun fact: Tenacity is my go-to inspiration
+- Fun fact: I love open conversations with people.
 
 - Know about my [experiences](https://github.com/PatrickKyei/about)
 
