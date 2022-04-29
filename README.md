@@ -22,7 +22,7 @@
 
 - Fun fact: Tenacity is my go-to inspiration
 
-- Know about my [experiences](https://github.com/PatrickKyei)
+- Know about my [experiences](https://github.com/PatrickKyei/about)
 
 * * *
 
