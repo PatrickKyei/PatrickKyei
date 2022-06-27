@@ -12,7 +12,7 @@
 
 - I’m currently learning **Data Analytics**
 
-- I’m looking to assist you with [skills and growth opportunities](https://skillembassy.com "career opportunities")
+- I’m can help with [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
 
