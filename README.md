@@ -8,11 +8,11 @@
 
 [![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://twitter.com/_patrickbaffour)
 
-- I’m currently working on [Skill Embassy](https://skillembassy.com "Skill Embassy"), [Facilitators Community](https://bit.ly/helpshapetheworld "Facilitators Community")
+- I’m currently working on [myself](https://patrickkyei.com/about "Patrick Kyei")
 
 - I’m currently learning **Data Analytics**
 
-- I’m can help with [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
+- I can help with resourceful [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
 - 👨‍💻 All of my projects are available at my [github repo](https://github.com/PatrickKyei "github repo")
 
