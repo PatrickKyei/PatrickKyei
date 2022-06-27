@@ -10,7 +10,7 @@
 
 - I’m currently working on [myself](https://patrickkyei.com/about "Patrick Kyei")
 
-- I’m currently learning **Data Analytics**
+- I’m currently learning [**Data Analytics**](https://patrickkyei.com/posts/data-analytics-project/ "Cyclistic Data Analytics project")
 
 - I can help with resourceful [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
