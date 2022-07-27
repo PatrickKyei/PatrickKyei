@@ -20,9 +20,7 @@
 
 - 💬 Ask me about **Product Design, Product Management, Data Analytics**
 
-- Fun fact: I love open conversations with people.
-
-- Know about my [experiences](https://github.com/PatrickKyei/about)
+- Past [projects](https://patrickkyei.com/projects/ "Project")
 
 * * *
 
