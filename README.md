@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Product Design, Product Management, Data Analytics**
 
-- Past [projects](https://patrickkyei.com/projects/ "Project")
+- Recent [projects](https://patrickkyei.com/projects/ "Project")
 
 * * *
 
