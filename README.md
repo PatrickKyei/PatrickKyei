@@ -34,10 +34,6 @@
 - ### Connect with me
 
 - [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://linkedin.com/in/patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://instagram.com/_patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://dribbble.com/patrickbaffour)
-- ### Languages and Tools:
-    
-
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" class="jop-noMdConv">](https://angular.io) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" class="jop-noMdConv">](https://getbootstrap.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="jop-noMdConv">](https://www.w3schools.com/css/)[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" class="jop-noMdConv">](https://www.figma.com/)[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" class="jop-noMdConv">](https://cloud.google.com)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" class="jop-noMdConv">](https://git-scm.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="jop-noMdConv">](https://www.w3.org/html/)[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" class="jop-noMdConv">](https://www.adobe.com/in/products/illustrator.html)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="jop-noMdConv">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" class="jop-noMdConv">](https://www.linux.org/)[<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" class="jop-noMdConv">](https://materializecss.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" class="jop-noMdConv">](https://www.mongodb.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" class="jop-noMdConv">](https://nodejs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" class="jop-noMdConv">](https://www.photoshop.com/en)[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" class="jop-noMdConv">](https://postman.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" class="jop-noMdConv">](https://www.python.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" class="jop-noMdConv">](https://reactjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" class="jop-noMdConv">](https://www.typescriptlang.org/)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" class="jop-noMdConv">](https://www.adobe.com/products/xd.html)
 
 ---
 ## 📊 Github stats
@@ -62,7 +58,7 @@
 
 ## 🛠️ Technologies and Tools
 
-<!-- <details> -->
+<details>
 <summary>🐱‍💻 Programming Languages and Tools that I Use</summary>
 <table>
 <thead>
@@ -158,23 +154,23 @@
   <tr>
     <td>Database</td>
     <td>
-        <img src="./img/sqlite.svg" height="48" width="96px" alt="SQLite" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
         <br>SQLite
     </td>
     <td>
-        <img src="./img/mysql-original.svg" height="48" width="96px" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <br>MySQL
     </td>
     <td>
-        <img src="./img/postgresql.svg" height="48" width="96px" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <br>PostgreSQL
     </td>
     <td>
-        <img src="./img/firestore.svg" height="48" width="96px" alt="Firestore" />
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
         <br>Firestore
     </td>
     <td>
-        <img src="./img/redis.svg" height="48" width="96px" alt="Redis" />
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
         <br>Redis
     </td>
   </tr>
@@ -209,8 +205,6 @@
         <br>Jira
     </td>
     <td>
-        <img src="./img/pre-commit.svg" height="48" width="48px" alt="Pre-commit" />
-        <br>Pre-commit
     </td>
     <td>
         <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm" />
@@ -279,8 +273,6 @@
         <br>Mypy
     </td>
     <td>
-        <img src="./img/pip.svg" height="48" width="96px" alt="PIP" />
-        <br>PIP
     </td>
     <td>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
@@ -311,7 +303,9 @@
   </tr>
 </tbody>
 </table>
-<!-- </details> -->
+</details>
+<!--Tools Image list: https://github.com/PrynsTag/PrynsTag/edit/master/README.md -->
+
 ---
 
 <!------------------SECTION------------------------------->
@@ -352,3 +346,10 @@ docker                   4 mins              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  6 hrs 44 mins       ████████████████████████░   98.85% 
 Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% -->
+
+<!-- For Reference -->
+
+
+
+<!-- 
+[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" class="jop-noMdConv">](https://angular.io) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" class="jop-noMdConv">](https://aws.amazon.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" class="jop-noMdConv">](https://getbootstrap.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="jop-noMdConv">](https://www.w3schools.com/css/)[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" class="jop-noMdConv">](https://www.figma.com/)[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" class="jop-noMdConv">](https://cloud.google.com)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" class="jop-noMdConv">](https://git-scm.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="jop-noMdConv">](https://www.w3.org/html/)[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" class="jop-noMdConv">](https://www.adobe.com/in/products/illustrator.html)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="jop-noMdConv">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" class="jop-noMdConv">](https://www.linux.org/)[<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" class="jop-noMdConv">](https://materializecss.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" class="jop-noMdConv">](https://www.mongodb.com/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" class="jop-noMdConv">](https://nodejs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" class="jop-noMdConv">](https://www.photoshop.com/en)[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" class="jop-noMdConv">](https://postman.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" class="jop-noMdConv">](https://www.python.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" class="jop-noMdConv">](https://reactjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" class="jop-noMdConv">](https://www.typescriptlang.org/)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" class="jop-noMdConv">](https://www.adobe.com/products/xd.html) -->
