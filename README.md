@@ -1,7 +1,7 @@
 <img src="./header.png" alt="Github Banner" align="center">
 
 ---
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=15%" src="lang.gif" alt="lang image here" /></p>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, it's Patrick here
 
@@ -57,18 +57,6 @@
 
 ---
 
-<div align="center">
-    <h3>Support Me</h3>
-    <p>
-        <a href="https://www.buymeacoffee.com/patrickbaffour" target="_blank">
-            <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" >
-        </a>
-        <a href="https://ko-fi.com/patrickkyei">
-            <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Logo">
-        </a>
-    </p>
-</div>
-
 <!------------------SECTION------------------------------->
 
 
@@ -87,80 +75,80 @@
   <tr>
     <td>Programming Language</td>
     <td>
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python"  />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "/>
         <br>Python
     </td>
     <td>
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript"  />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  />
         <br>JavaScript
     </td>
     <td>
-        <img src="./img/kotlin.svg" width="48" height="48" alt="Kotlin"  />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"  />
         <br>Kotlin
     </td>
     <td>
-        <img src="./img/php.svg" width="48" height="48" alt="PHP"  />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  />
         <br>PHP
     </td>
     <td>
-        <img src="./img/swift.svg" width="48" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"  />
         <br>Swift
     </td>
   </tr>
   <tr>
     <td>Libraries</td>
     <td>
-        <img src="./img/numpy.svg" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"  />
         <br>Numpy
     </td>
     <td>
-        <img src="./img/pandas.svg" width="48" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"  />
         <br>Pandas
     </td>
     <td>
-        <img src="./img/matplotlib.svg" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"  />
         <br>Matplotlib
     </td>
     <td>
-        <img src="./img/scikit-learn.svg" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Swift"  />
         <br>Scikit-Learn
     </td>
     <td>
-        <img src="./img/scrapy.svg" height="48" alt="Swift"  />
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"  />
         <br>Scrapy
     </td>
   </tr>
   <tr>
     <td>Front-End Technologies</td>
     <td>
-        <img src="./img/sass.svg" height="48" alt="Sass"  />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"  />
         <br>Sass
     </td>
     <td>
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap"  />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"  />
         <br>Bootstrap
     </td>
     <td>
-        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind"  />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"  />
         <br>Tailwind
     </td>
     <td>
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript"  />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"  />
         <br>JavaScript
     </td>
     <td>
-        <img src="./img/vue.svg" width="48" height="48" alt="Vue"  />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"  />
         <br>Vue
     </td>
   </tr>
   <tr>
     <td>Back-End Technologies</td>
     <td>
-        <img src="./img/django.svg" height="48" width="96px" alt="Django"  />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"  />
         <br>Django
     </td>
     <td>
-        <img src="./img/codeigniter.svg" height="48" width="96px" alt="CodeIgniter"  />
+        <img src=" https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="CodeIgniter"  />
         <br>CodeIgniter
     </td>
     <td></td>
@@ -193,19 +181,19 @@
   <tr>
     <td>Cloud Hosting</td>
     <td>
-        <img src="./img/gcp.svg" height="48" width="96px" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
         <br>GCP
     </td>
     <td>
-        <img src="./img/aws.svg" height="48" width="96px" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         <br>AWS
     </td>
     <td>
-        <img src="./img/azure.svg" height="48" width="96px" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
         <br>Azure
     </td>
     <td>
-        <img src="./img/heroku.svg" height="48" width="96px" alt="Heroku" />
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
         <br>Heroku
     </td>
     <td></td>
@@ -213,11 +201,11 @@
   <tr>
     <td rowspan="4">Software & Tools</td>
     <td>
-        <img src="./img/git.svg" height="48" width="96px" alt="Git" />
+        <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="Git" />
         <br>Git
     </td>
     <td>
-        <img src="./img/jira.svg" height="48" width="96px" alt="Jira" />
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
         <br>Jira
     </td>
     <td>
@@ -225,69 +213,69 @@
         <br>Pre-commit
     </td>
     <td>
-        <img src="./img/pycharm.svg" height="48" width="96px" alt="Pycharm" />
+        <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm" />
         <br>Pycharm
     </td>
     <td>
-        <img src="./img/android-studio.svg" height="48" width="96px" alt="Android Studio" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
         <br>Android Studio
     </td>
   </tr>
   <tr>
     <td>
-        <img src="./img/notion.svg" height="48" width="96px" alt="Notion" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
         <br>Notion
     </td>
     <td>
-        <img src="./img/ubuntu.svg" height="48" width="96px" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
         <br>Ubuntu
     </td>
     <td>
-        <img src="./img/macos.svg" height="48" width="96px" alt="MacOS" />
+        <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
         <br>MacOS
     </td>
     <td>
-        <img src="./img/windows.svg" height="48" width="96px" alt="Windows" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
         <br>Windows
     </td>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"   class="jop-noMdConv">
-        <!-- <br>Figma -->
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"   >
+        <br>Figma 
     </td>
   </tr>
   <tr>
     <td>
-        <img src="./img/intellij.svg" height="48" width="96px" alt="IntelliJ IDEA" />
+        <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
         <br>IntelliJ IDEA
     </td>
     <td>
-        <img src="./img/webpack.svg" height="48" width="96px" alt="Webpack" />
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" />
         <br>Webpack
     </td>
     <td>
-        <img src="./img/circleci.svg" height="48" width="96px" alt="CircleCI" />
+        <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
         <br>CircleCI
     </td>
     <td>
-        <img src="./img/travis-ci.svg" height="48" width="96px" alt="TravisCI" />
+        <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" alt="TravisCI" />
         <br>TravisCI
     </td>
     <td>
-        <img src="./img/github-actions.svg" height="48" width="96px" alt="Github Actions" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github Actions" />
         <br>Github Actions
     </td>
   </tr>
   <tr>
     <td>
-        <img src="./img/github.svg" height="48" alt="Github" />
+        <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="Github" />
         <br>Github
     </td>
     <td>
-        <img src="./img/jupyter-notebook.svg" height="48" width="96px" alt="Jupyter Notebook" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
         <br>Jupyter Notebook
     </td>
     <td>
-        <img src="./img/mypy.svg" width="96px" alt="Mypy" />
+        <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Mypy" />
         <br>Mypy
     </td>
     <td>
@@ -295,29 +283,29 @@
         <br>PIP
     </td>
     <td>
-        <img src="./img/postman.svg" height="48" width="96px" alt="Postman" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
         <br>Postman
     </td>
   </tr>
   <tr>
     <td>Linters & Code Formatters</td>
     <td>
-        <img src="./img/eslint.svg" height="48" width="96px" alt="Github Actions" />
+        <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Github Actions" />
         <br>ESlint
     </td>
     <td>
-        <img src="./img/stylelint.svg" height="48" width="96px" alt="Github Actions" />
+        <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="Github Actions" />
         <br>Stylelint
     </td>
     <td>
-        <img src="./img/pylint.svg" height="48" width="96px" alt="Github Actions" />
+        <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="Github Actions" />
         <br>Pylint
     </td>
     <td>
         Flake8
     </td>
     <td>
-        <img src="./img/black.png" height="48" width="96px" alt="Github Actions" />
+        <img src=" https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="Github Actions" />
         <br>Black
     </td>
   </tr>
@@ -327,6 +315,18 @@
 ---
 
 <!------------------SECTION------------------------------->
+
+<div align="center">
+    <h3>Support Me</h3>
+    <p>
+        <a href="https://www.buymeacoffee.com/patrickbaffour" target="_blank">
+            <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" >
+        </a>
+        <a href="https://ko-fi.com/patrickkyei">
+            <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Logo">
+        </a>
+    </p>
+</div>
 
 <!-- 
 📊 **This Week I Spent My Time On**
