@@ -15,7 +15,7 @@
 
 - I’m currently working on [myself](https://patrickkyei.com/about "Patrick Kyei")
 
-- I’m currently learning [**Data Analytics**](https://patrickkyei.com/posts/data-analytics-project/ "Cyclistic Data Analytics project")
+- I’m currently revising [![**Cybersecurity**](https://api.roadmap.sh/v1-badge/tall/648792ece4bf41c65b04a05a?variant=dark)](https://roadmap.sh)
 
 - I can help with resourceful [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on my [website](https://patrickkyei.com/ "website")
 
-- 💬 Ask me about **Product Design, Product Management, Data Analytics**
+- 💬 Ask me about **Product Design, Product Management, Data Analytics, Cybersecurity**
 
 - Recent [projects](https://patrickkyei.com/projects/ "Project")
 
@@ -309,7 +309,7 @@
 ---
 
 <!------------------SECTION------------------------------->
-
+<!--
 <div align="center">
     <h3>Support Me</h3>
     <p>
@@ -320,7 +320,7 @@
             <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi Logo">
         </a>
     </p>
-</div>
+</div>-->
 
 <!-- 
 📊 **This Week I Spent My Time On**
