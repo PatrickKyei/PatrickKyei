@@ -1,6 +1,3 @@
-<img src="./header.png" alt="Github Banner" align="center">
-
----
 <p align="left"><img width=15%" src="lang.gif" alt="lang image here" /></p>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, it's Patrick here
