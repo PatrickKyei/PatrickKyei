@@ -15,7 +15,7 @@
 
 - I’m currently working on [myself](https://patrickkyei.com/about "Patrick Kyei")
 
-- I’m currently revising [![**Cybersecurity**](https://api.roadmap.sh/v1-badge/tall/648792ece4bf41c65b04a05a?variant=dark)](https://roadmap.sh)
+- I’m studying on and revising [![**Cybersecurity**](https://api.roadmap.sh/v1-badge/wide/648792ece4bf41c65b04a05a?variant=dark)](https://roadmap.sh)
 
 - I can help with resourceful [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
