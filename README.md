@@ -10,7 +10,7 @@
 
 
 
-- I’m currently working on [myself](https://patrickkyei.com/about "Patrick Kyei")
+- I’m currently working on [myself](https://patrickkyei.com/ "Patrick Kyei")
 
 - I can help with resourceful [product tools](https://patrickkyei.com/posts/product-resource-links/ "product tools") for your product work.
 
