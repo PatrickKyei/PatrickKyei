@@ -2,7 +2,7 @@
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hand Wave">, it's Patrick here
 
-## I create digital products that are driven by user experience
+## Building talents for the future of work
 
 ![patrickkyei](https://komarev.com/ghpvc/?username=patrickkyei&label=Profile%20views&color=0e75b6&style=flat)
 
