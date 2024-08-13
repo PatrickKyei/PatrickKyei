@@ -6,7 +6,7 @@
 
 ![patrickkyei](https://komarev.com/ghpvc/?username=patrickkyei&label=Profile%20views&color=0e75b6&style=flat)
 
-[![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://twitter.com/_patrickbaffour)
+[![_patrickbaffour](https://img.shields.io/twitter/follow/_patrickbaffour?logo=twitter&style=for-the-badge)](https://x.com/thepatrickkyei)
 
 
 
