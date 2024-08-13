@@ -28,7 +28,7 @@
 
 - ### Connect with me
 
-- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://linkedin.com/in/patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://instagram.com/_patrickbaffour)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://dribbble.com/patrickbaffour)
+- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://linkedin.com/in/thepatrickkyei)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://instagram.com/thepatrickkyei)[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="patrickbaffour" height="30" width="40" class="jop-noMdConv">](https://dribbble.com/thepatrickkyei)
 
 ---
 ## 📊 Github stats
